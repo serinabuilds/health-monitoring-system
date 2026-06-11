@@ -10,7 +10,7 @@
 #include <BlynkSimpleEsp32.h>
 
 // WiFi credentials
-char ssid[] = "Serina's A15";
+char ssid[] = "Serina";
 char pass[] = "12345678";
 
 // OLED display configuration
